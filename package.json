@@ -1,7 +1,7 @@
 {
-  "name": "simple-starter",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "A simple starter using yarn and webpack",
+  "description": "A portfolio website",
   "main": "index.js",
   "author": "Gaurav Langan",
   "license": "MIT",

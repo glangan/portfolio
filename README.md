@@ -1,4 +1,4 @@
-# simple-starter
+# Portfolio
 
-Starter project structure for a website using yarn and webpack
+Portfolio website http://www.glangan.com.au
 
